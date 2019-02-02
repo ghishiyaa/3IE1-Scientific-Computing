@@ -13,7 +13,13 @@ if n=3;
 We can make subsequent level headers by decreasing (lowering header level)/ increasing (increasing header level) the number of #'s
 
 # How to bold/ italicize text 
-Text will be bolded if an # is added at the start of the text 
+Text will be **bolded** if an ** is added at the start of the text and at the end 
+Here is an example:
+- Sally **loves** dogs!
+
+Text will be _italicized_ if either * is added at the start and end of the text/ or if _ is added at the start and end.
+Here is an example;
+- Todays class was titled *Scientific Computuing*.
 
 ## Lists:
 # Bulleted List:
@@ -56,6 +62,5 @@ Here is a poop emoji:
 ![Cute Dog](/images/download.png)
 Format: ![PNG](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvzLmV6p3gAhXnTN8KHW6lBMEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fsmartest-dogs%2F&psig=AOvVaw182FMJS7mNRoGm_MDcpVGF&ust=1549223654832041)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvzLmV6p3gAhXnTN8KHW6lBMEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fsmartest-dogs%2F&psig=AOvVaw182FMJS7mNRoGm_MDcpVGF&ust=1549223654832041)
+
 
