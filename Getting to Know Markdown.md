@@ -12,7 +12,7 @@ if n=3;
 
 We can make subsequent level headers by decreasing (lowering header level)/ increasing (increasing header level) the number of #'s
 
-# How to bold/ italicize text 
+# **Bold**/ _Italicize_ text:
 Text will be **bolded** if an ** is added at the start of the text and at the end 
 Here is an example:
 - Sally **loves** dogs!
@@ -36,12 +36,12 @@ Here is an example of an ordered list:
 3. Third
 4. Fourth
 
-## Links
+## Links:
 A link may be inserted by;
 https://www.mcmaster.ca/cll/avenue/login.php - automatic!
 [Avenue to Learn](https://www.mcmaster.ca/cll/avenue/login.php)
 
-## Tables
+## Tables:
 This is how you insert tables:
 
 Cats | Dogs
@@ -58,7 +58,7 @@ Link: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 Here is a poop emoji:
 :hankey:
 
-##Images
+## Images:
 ![Cute Dog](/images/download.png)
 Format: ![Alt Text](https://github.com/ghishiyaa/3IE1-Scientific-Computing/blob/master/download.png?raw=true)
 
