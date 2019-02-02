@@ -30,12 +30,12 @@ Here is an example of an ordered list:
 3. Third
 4. Fourth
 
-# Links
+## Links
 A link may be inserted by;
 https://www.mcmaster.ca/cll/avenue/login.php - automatic!
 [Avenue to Learn](https://www.mcmaster.ca/cll/avenue/login.php)
 
-# Tables
+## Tables
 This is how you insert tables:
 
 Cats | Dogs
@@ -45,12 +45,15 @@ No |Yes
 No | No
 Yes|No
 
-# Emojis
+## Emojis
 Emojis may be inserted using the Emoji Cheat Sheet for GitHubb:
 Link: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 Here is a poop emoji:
 :hankey:
 
+##Images
+![Cute Dog](/desktop/download.png)
+Format: ![PNG](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvzLmV6p3gAhXnTN8KHW6lBMEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fsmartest-dogs%2F&psig=AOvVaw182FMJS7mNRoGm_MDcpVGF&ust=1549223654832041)
 
 
