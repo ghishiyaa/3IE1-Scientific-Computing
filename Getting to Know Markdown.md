@@ -14,10 +14,10 @@ Text will be bolded if an # is added at the start of the text
 ##Lists:
 #Bulleted List:
 Here is an example of a bulleted list:
--apples
--bananas
--grapes
-peacher 
+- apples
+- bananas
+- grapes
+- peaches
 
 #Ordered List:
 Here is an example of an ordered list:
