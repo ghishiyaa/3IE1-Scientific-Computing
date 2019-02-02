@@ -1,4 +1,4 @@
-##### In this file I will be learning to do a series of formatting methods using Mark down 
+# In this file I will be learning to do a series of formatting methods using Mark down 
 
 #### First level header
 # This is how you make a first level header (use # at start of text)
@@ -53,7 +53,7 @@ Here is a poop emoji:
 :hankey:
 
 ##Images
-![Cute Dog](/desktop/download.png)
+![Cute Dog](/image/download.png)
 Format: ![PNG](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvzLmV6p3gAhXnTN8KHW6lBMEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fsmartest-dogs%2F&psig=AOvVaw182FMJS7mNRoGm_MDcpVGF&ust=1549223654832041)
 
 
