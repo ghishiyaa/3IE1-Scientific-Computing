@@ -60,7 +60,7 @@ Here is a poop emoji:
 
 ##Images
 ![Cute Dog](/images/download.png)
-Format: ![Alt Text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvzLmV6p3gAhXnTN8KHW6lBMEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fsmartest-dogs%2F&psig=AOvVaw182FMJS7mNRoGm_MDcpVGF&ust=1549223654832041)
+Format: ![Alt Text](https://github.com/ghishiyaa/3IE1-Scientific-Computing/blob/master/download.png?raw=true)
 
 
 
